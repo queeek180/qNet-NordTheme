@@ -1,0 +1,6 @@
+{
+"title" : "qNet Nord Theme",
+"type" : "servercontent",
+"tags" : "fun",
+"ignore" : ["*.psd", "*.vcproj", "*.svn*"]
+}
